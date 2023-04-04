@@ -1,0 +1,8 @@
+{
+    "name": "James Roberts",
+    "age": 26,
+    "list": ["this", "is", "a list"],
+    "nested": {
+        "sub": "object"
+    }
+}
